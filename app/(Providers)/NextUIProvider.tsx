@@ -1,4 +1,4 @@
-'use client'
+"use client"
 import * as React from "react";
 
 // 1. import `NextUIProvider` component
