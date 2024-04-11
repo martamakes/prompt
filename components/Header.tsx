@@ -32,7 +32,7 @@ const Header = ({ activeItem }: Props) => {
         <div>
           <Link href={"/"}>
             <h1 className="font-Inter text-3xl cursor-pointer">
-              <span className="text-[#64ff4c]">Dis</span>trify
+              <span className="text-[#31f6bb]">Dis</span>trify
             </h1>
           </Link>
         </div>
@@ -56,7 +56,7 @@ const Header = ({ activeItem }: Props) => {
             <h1>
               <Link href={"/"}>
                 <h1 className="font-Inter text-3xl cursor-pointer">
-                  <span className="text-[#64ff4c]">Dis</span>trify
+                  <span className="text-[#31f6bb]">Dis</span>trify
                 </h1>
               </Link>
             </h1>
